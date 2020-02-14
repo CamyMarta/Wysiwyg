@@ -7,11 +7,11 @@ A WYSIWYG editor allows you to generate HTML code visually.
 This type of editor is present on most forums.
 ```
 
-##install 
+## install 
 ```
 git clone https://github.com/CamyMarta/Wysiwyg.git
 ```
-##starting
+## starting
 
 ```
 double click on the file index.php
